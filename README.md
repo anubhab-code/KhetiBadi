@@ -73,4 +73,8 @@ _Agriculture_ :-  Since farmers are facing a lot of issues and there is protest 
 3. Personal chatbot to be included to provide as much as assistance possible, later connecting them to professionals for further help.
 
 ## Screenshots
-<img src="/Screenshots/1.jpeg" alt="My cool logo"/>
+<img src="/Screenshots/1.jpeg" alt="1"/>
+<img src="/Screenshots/2.jpeg" alt="2"/>
+<img src="/Screenshots/3.jpeg" alt="3"/>
+<img src="/Screenshots/4.jpeg" alt="4"/>
+<img src="/Screenshots/5.jpeg" alt="5"/>
