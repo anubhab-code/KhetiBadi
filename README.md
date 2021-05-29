@@ -71,3 +71,6 @@ _Agriculture_ :-  Since farmers are facing a lot of issues and there is protest 
 1. For the Feed feature, due to time constraints the Agro News API (https://newsapi.org/v2/q=agriculture?country=in&apiKey=API_KEY) couldn't be implemented, which will be one of our future features of the app, for the time being hard coded values are being displayed in the feed.
 2. UI improvements to be done, to provide a better interface for the users to interact with the app.
 3. Personal chatbot to be included to provide as much as assistance possible, later connecting them to professionals for further help.
+
+## Screenshots
+<img src="/Screenshots/1.jpeg" alt="My cool logo"/>
