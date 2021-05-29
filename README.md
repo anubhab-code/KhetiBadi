@@ -8,11 +8,9 @@ This is the official code repository for _Team Version 1.0_ . This _simple, ligh
 * _Priyansu Rath_
 
 ## Important Links
-* [Demo video link]()
+* [Demo video link](https://vimeo.com/556560221)
 
 * [Presentation of our idea](https://www.canva.com/design/DAEc-iIbk3M/EjElmnlAv8bNd4NW4ppSAQ/view?utm_content=DAEc-iIbk3M&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
-
-* [Kaggle Dataset Used for Plant disease detection](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset)
 
 ## Overview :
 A Flutter App , with a blend of Machine Learning and IoT in it and intergrated with a whole lot of features which aims to help farmers in agricultural applications and thus making their lives a bit easy. 
